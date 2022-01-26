@@ -1,7 +1,7 @@
 ### Hey there! I'm Alberto Helbig 👋
 
   🎓  Graduating in Computer Engineering at UFPel <br/>
-  📖  I’m currently studying React JS <br/>
+  📖  I’m currently studying React JS and Adobe Experience Manager as a Front-end at Compass.uol <br/>
   💙  Passionate by sports, developing, finances and games <br/>
 <br/>
 <div>
